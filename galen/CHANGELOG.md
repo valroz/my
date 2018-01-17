@@ -8,6 +8,7 @@ All changes to Galen Framework project will be documented in this file
 66666666666666666666666666666666666666666666666666666666
 77777777777777777777777777777777777777777777777777777
 tag1tag1tag1tag1tag1tag1tag1tag1tag1tag1tag1tag1tag1
+tag2
 ## [2.3.0][2016-07-13]
 ### Added
 - 'replace-colors' filter in 'image' spec
